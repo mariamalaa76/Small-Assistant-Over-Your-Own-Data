@@ -1,0 +1,47 @@
+🚀 We’re Hiring | AI and NLP Engineers | Fawry
+
+🔹AI Engineer (Vision) 
+Responsibilities: 
+-Partner with stakeholders to discuss, understand, and translate business needs into technical roadmaps.
+-Research state-of-the-art methods, read the latest papers, and implement novel techniques when needed.
+-Build robust computer vision pipelines, evaluation frameworks, and production-grade deployments.
+-Continuously iterate on systems to improve accuracy, efficiency, and reliability.
+
+Requirements: 
+-Bachelor’s degree in computer science or a closely related field.
+-0–3 years of hands-on experience in Deep Learning and Computer Vision.
+-Legal eligibility to work full-time (e.g., no pending military service obligations).
+-Strong Python and solid understanding of deep learning & computer vision fundamentals.
+-Ability to read and implement research papers.
+-Experience with CV tools like OpenCV and common tasks (detection, segmentation, tracking).
+-Good software engineering practices (OOP, clean code, Git, Linux).
+-Basic experience with APIs (e.g., FastAPI), Docker, and databases.
+-Understanding of data handling, preprocessing, and annotation workflows.
+-Experience with real-time or production AI systems (Preferred).
+-Knowledge of advanced models (Transformers, tracking, OCR, face recognition) (Preferred).
+-Familiarity with concurrency, CI/CD, or deployment tools (Preferred).
+
+🔹NLP Engineer
+Responsibilities: 
+-Design and build conversational AI systems and chatbots using frameworks like LangChain.
+-Develop Retrieval-Augmented Generation pipelines integrating internal and external data sources.
+-Create scalable AI agent workflows and integrate them into applications
+-Fine-tune and optimize LLMs for domain-specific (FinTech) use cases.
+-Develop and improve multilingual (Arabic & English) NLP models.
+-Prepare and process text data for training and optimization.
+-Deploy NLP models as APIs and manage production pipelines using tools like Docker.
+
+Requirements: 
+-Bachelor’s degree in computer science or a closely related field.
+-0–3 years of hands-on experience in NLP projects.
+-Legal eligibility to work full-time (e.g., no pending military service obligations).
+-Strong experience building NLP/LLM applications using frameworks like LangChain.
+-Knowledge of Retrieval-Augmented Generation and working with vector databases such as FAISS or Pinecone.
+-Experience designing agent-based workflows and integrating external tools, APIs, and data sources.
+-Solid understanding of NLP and machine learning concepts (LLMs, NER, intent classification, embeddings, sentiment analysis).
+-Strong Python skills with experience in frameworks like Hugging Face, PyTorch, or TensorFlow.
+-Experience building and deploying APIs for AI systems.
+-Familiarity with Docker and basic CI/CD practices for model deployment.
+-Understanding of model tracking and experimentation tools.
+
+For applying send your updated CV to Salma.ashraf@fawry.com and mention the title in the subject line.

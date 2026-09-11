@@ -1,0 +1,45 @@
+Talent.AI Lab Residency | Cairo, Egypt | 12 months
+
+About The Program
+
+The AI Resident will participate in Finaira's 12-month Talent.AI Lab Residency, contributing to real-world AI and digital FinTech initiatives under the guidance of experienced engineers and mentors. The role combines handson development, technical research, experimentation, and problem-solving across AI domains including forecasting, agentic simulation, and retrieval. Residents will complete two rotations, each focused on delivering practical contributions and proof-of-concepts while developing their technical and research capabilities.
+
+How You'll Shape Your Future
+
+Build on real agentic and retrieval systems: tool-constrained agents, simulation of operational procedures, chunking strategies, retrieval failure modes, and end-to-end RAG optimization
+Run R&D on open problems: design evaluations, diagnose why a system fails, and test whether a newer technique holds up under real cost and latency constraints
+Read current literature and turn promising ideas into tested experiments rather than summaries
+Complete two rotations of five to six months, each ending in a shipped contribution and a proof-ofconcept
+Work with a discipline mentor for each rotation, reviewed at fixed checkpoints 
+
+Your two-track pairing is assigned at the end of a five-week onboarding phase, based on cohort balance and observed strengths.
+
+Requirements
+
+Your starting foundation
+
+Solid Python: you have written code someone else could run 
+LLM and deep-learning fundamentals at working depth 
+APIs, pipelines, and tooling: you can wire a system together
+ Prototyping with modern AI frameworks, end to end 
+ You read technical papers without handholding 
+Version control and reproducible code as a habit 
+
+Strong signals, none required: a retrieval or RAG project you can talk through, agent or tool-calling work including where it failed, an evaluation habit, applied ML or statistics grounding.
+
+What Are We Looking For
+
+A senior student graduating in 2027, or a graduate within one year of graduation
+Major: Computer Science, Computer Engineering, AI, Data Science, Communication and Networks Engineering, Business Informatics, or Actuarial Science. 
+Professional English: you will read papers and write technical documentation
+Commitment: Available for the full twelve months, starting October 2026
+
+Undergraduates: flexible hours around your timetable, minimum one on-site day per week.
+
+Graduates: full-time on site with one remote day accommodated, on site throughout the first six months
+
+What You Will Get
+
+A dedicated mentor, and a portfolio of real contributions. An optional track supports you toward publishing your research. Residents who clear the bar at the final review move into defined graduation pathways.
+
+Finaira is an Equal Opportunity Employer and is committed to providing a workplace free of discrimination and harassment. All employment decisions are based on business needs, job requirements, and individual qualifications, without regard to any status protected by the laws or regulations in the locations where we operate.
