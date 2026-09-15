@@ -20,3 +20,9 @@ dependencies = [
     "streamlit>=1.63.0",
     "striprtf>=0.0.33",
 ]
+
+[tool.setuptools]
+py-modules = ["app", "vector_store", "llm_client"]
+
+[tool.setuptools.packages.find]
+include = ["document_processor*"]
