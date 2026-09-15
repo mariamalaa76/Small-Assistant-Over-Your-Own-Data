@@ -13,7 +13,7 @@ index = vector_store.load_index()
 chunks = vector_store.load_chunks()
 
 
-st.title("Small Assistant")
+st.title("My Personal AI Assistant")
 
 
 if prompt := st.chat_input("Ask me something..."):
