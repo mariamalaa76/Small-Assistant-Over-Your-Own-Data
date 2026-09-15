@@ -11,7 +11,6 @@ vector_store = VectorStore()
 
 index = vector_store.load_index()
 chunks = vector_store.load_chunks()
-
 st.title("RAG Personal Assistant")
 
 if prompt := st.chat_input("Ask me something..."):
